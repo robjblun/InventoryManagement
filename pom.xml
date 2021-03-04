@@ -29,7 +29,7 @@
     </parent>
     <groupId>com.gcp.springboot</groupId>
     <artifactId>inventorymanagement</artifactId>
-    <version>1.0.0.0</version>
+    <version>4.0.0.0</version>
     <name>inventorymanagement</name>
     <description>Spring Boot sample app</description>
 
@@ -93,7 +93,7 @@
                 <version>2.2.0</version>
                 <configuration>
                     <deploy.projectId>testapp-306419</deploy.projectId>
-                    <deploy.version>3</deploy.version>
+                    <deploy.version>4</deploy.version>
                 </configuration>
             </plugin>
         </plugins>
